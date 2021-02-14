@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import styles from  './Investsteps.module.css';
+import styles from  './InvestSteps.module.css';
 
 const InvestSteps = () => {
     return (
