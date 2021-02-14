@@ -1,0 +1,46 @@
+.DesktopHomeSlider .contentSingleOne {
+    padding:15vh 15vw;
+    height:87.5vh;
+}
+
+.DesktopHomeSlider .contentSingleOne .text{
+    color:#4F6585;
+    text-align:left;
+    padding:10vh 20vw 0 0;
+    font-size:1.5vw;
+}
+
+.DesktopHomeSlider .contentSingleOne .head{
+    color:#21409A;
+    font-size:2vw;
+    font-weight:bold;
+    text-align:left;
+}
+
+.DesktopHomeSlider .contentSingleOne .subhead{
+    font-size:1.5vw;
+    color:#000;
+    text-align:left;
+    font-weight:bold;
+}
+
+
+@media only screen and (max-width: 767px){
+    .DesktopHomeSlider{
+        display: none;
+    }
+}
+
+
+@media only screen and (min-device-width: 768px)
+    and (max-device-width: 1024px) 
+    and (orientation: portrait){
+        .DesktopHomeSlider .contentSingleOne{
+            margin-top: -220px;
+            margin-bottom: -280px;
+        }
+
+        .DesktopHomeSlider .contentSingleOne .text{
+            padding:25vh 20vw 0 0; 
+        }
+    }

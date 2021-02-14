@@ -1,0 +1,58 @@
+.DesktopInvestInAfrica .contentSingleOne{
+    padding:15vh 15vw;
+}
+
+.DesktopInvestInAfrica .contentSingleOne .investInAfrica{
+    height:60vh;
+    width:65vw;
+    padding:25vh 35vw 0 0;
+
+}
+
+.DesktopInvestInAfrica .contentSingleOne .investInAfrica .head{
+    text-align:left!important;
+    margin-bottom:3vh;
+    color: #21409A;
+    font-weight: bold;
+    font-size:2vw;
+}
+
+.DesktopInvestInAfrica .contentSingleOne .investInAfrica .body{
+    font-size:1.3vw;
+    color: #000;
+}
+
+@media only screen and (max-width: 767px){
+    .DesktopInvestInAfrica{
+        display: none;
+    }  
+}
+
+@media only screen and (min-device-width: 768px)
+    and (max-device-width: 1024px) 
+    and (orientation: portrait){
+    .DesktopInvestInAfrica .contentSingleOne{
+        padding:.1vh 15vw;
+        margin-bottom: -180px;
+    }
+
+    .DesktopInvestInAfrica .contentSingleOne .investInAfrica .head{
+        margin-bottom:1vh;
+        font-size:2vw;
+    }
+
+    .DesktopInvestInAfrica .contentSingleOne .investInAfrica .body{
+        font-size:1.7vw;
+        text-align: center;
+    }
+
+    
+}
+
+/* @media only screen and (max-width: 899px), 
+(height: 1024px) and (width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) and (orientation: landscape), 
+(width: 1024px) and (height: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) and (orientation: portrait)  {
+    .DesktopInvestInAfrica{
+        display: none;
+    }  
+} */

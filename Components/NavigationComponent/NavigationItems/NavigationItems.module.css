@@ -1,0 +1,47 @@
+.NavigationItems{
+    margin: 0;
+    padding:1vh;
+    list-style: none;
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}
+.NavigationItems  .login{
+    background:#fff;
+    color:#ED1C24;
+    border:2px solid #ED1C24;
+} 
+
+.NavigationItems .getstarted{
+    background:#ED1C24;
+    color:#fff;
+    border:2px solid #ED1C24;
+}
+.NavigationItems button{
+    margin-top: 2vh;
+    border-radius:5px;
+    margin-right:1vw;
+    border:none;
+    outline:none;
+}
+
+@media (min-width: 900px){
+    .NavigationItems {
+        flex-flow: row;
+    }
+}
+
+
+@media only screen and (min-device-width: 768px)
+    and (max-device-width: 1024px) 
+    and (orientation: portrait){
+
+        .NavigationItems{
+            padding:.1vh;
+        }
+
+        .NavigationItems button {
+            margin-top: 1vh;
+            margin-right:.1vw;
+        }
+    }

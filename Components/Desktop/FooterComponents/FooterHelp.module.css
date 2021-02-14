@@ -1,0 +1,37 @@
+.desktopFootHelp .footerHelp{
+    padding:10vh 15vw;
+    background: rgba(196, 196, 196, 0.1);
+}
+
+.desktopFootHelp .footerHelp .head{
+    color:#3B57A6;
+    font-size:2vw;
+    font-weight:bold;
+}
+.desktopFootHelp .footerHelp .subhead{
+    font-size:1.5vw;
+}
+
+
+.desktopFootHelp .footerHelp .columns{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    padding:5vh 0;
+}
+
+.desktopFootHelp .footerHelp .columns .tab{
+    background:#fff;
+    width:85%;
+    margin:auto;
+    border-radius:10px;
+    padding:5vh 0;
+    text-align:center;
+}
+.desktopFootHelp .footerHelp .columns .tab p{
+    font-size:1.3vw;
+    font-weight:bold;
+}
+
+.desktopFootHelp .footerHelp .columns .tab img{
+    height:7vh;
+}

@@ -1,0 +1,15 @@
+.mediacontainer .head{
+    text-align:left!important;
+    padding-left:1.5vw;
+    color:#21409A;
+    font-size:2vw;
+    font-weight:bold;
+}
+
+.mediacontainer .contentsingleone{
+    padding:15vh 15vw;
+}
+
+.mediacontainer .contentsingleone .tab{
+    width:80%!important;
+}

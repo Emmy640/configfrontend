@@ -1,0 +1,192 @@
+.desktopSignup .signUp .contentSingleOne{
+    padding:25vh 15vw; 
+}
+
+.desktopSignup .signUp .contentSingleOne .head{
+    color:#21409A;
+    font-size:2vw;
+    font-weight:bold;
+    text-align:center;
+}
+
+.desktopSignup .signUp .contentSingleOne .subhead{
+    font-size:1.25vw;
+    color:#636060;
+    text-align:center;
+}
+
+.desktopSignup .form .formSignup{
+    padding:10vh 10vw;
+}
+
+.desktopSignup .form .tab{
+    margin-bottom:5vh;
+}
+
+.desktopSignup .form .input{
+    width:95%;
+    border-radius:10px;
+    padding:1vh 1vw;
+    font-size:1vw;
+    border:1px #9FA5CE solid;
+    outline:none;
+    margin-top:2vh;
+}
+
+.desktopSignup .form .input input{
+    width:100%;
+    border:none;
+    outline:none;
+}
+.desktopSignup .form select{
+    border:none;
+    outline:none;
+    height: 100%;
+}
+
+.desktopSignup .form  .passwordInput{
+    display:grid;
+    grid-template-columns:10fr 1fr;
+}
+
+.desktopSignup .form  .checkbox .tabInner{
+    margin-bottom:2vh;
+}
+
+.desktopSignup .form  .checkbox .tabInner label{
+    padding-left:1vw;
+}
+
+.desktopSignup .form  .checkbox .button{
+    padding:2vh 1vw;
+    border:none;
+    outline:none;
+    margin-right:1vw;
+    cursor:pointer;
+}
+
+.desktopSignup .form  .checkbox .button .getStarted{
+    background:#ED1C24;
+    color:#fff;
+    border:2px solid #ED1C24;
+    border-radius:7px;  
+}
+
+.desktopSignup .form label{
+    font-size:1vw;
+    color:#000;
+}
+
+.desktopSignup .form .phoneinput{
+    display:grid;
+    grid-template-columns:1fr 5fr;
+}
+
+
+
+.desktopSignup .signUp .popup{
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:400000;
+    display:none;
+    text-align:center;
+}
+.desktopSignup .signUp .popup-toggle{
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:400000;
+    display:block;
+    text-align:center;
+}
+.desktopSignup .signUp .popup-toggle .background{
+    background:rgba(0,0,0,.8);
+    width:100vw;
+    height:100vh;
+}
+.desktopSignup .signUp.popup-toggle .inner{
+    background:#fff;
+    height:32.5vh;
+    position:absolute;
+    top:20vh;
+    width:30vw;
+    box-shadow: 0 4px 8px 0 rgba(132, 132, 132, 0.2), 0 6px 20px 0 rgba(177, 177, 177, 0.19);
+    left:35vw;
+    margin:auto;
+    text-align:left;
+    border-radius:10px;
+    padding:5vh 0;
+}
+.desktopSignup .signUp .popup-toggle .inner .content{
+    font-size:.9vw;
+    text-align:center;
+    padding:0 5vw;
+}
+.desktopSignup .signUp .popup-toggle .inner .content p{
+    margin-bottom:1vh;
+    font-size:1.1vw;
+}
+.desktopSignup .signUp .popup-toggle .inner .content button{
+    color:#fff;
+    border:none;
+    outline:none;
+    border-radius:5px;
+    padding:.5vh 1vw;
+    margin-top:3vh;
+    font-size:.9vw;
+}
+
+.desktopSignup .signUp .contentNoAccount{
+    margin-top:.1vh; 
+}
+
+
+.desktopSignup .footerThree{
+    background:#1C242F;
+    color:#fff;
+    padding:2vh 0;
+    text-align:center;
+}
+
+@media only screen and (max-width: 767px){
+    .desktopSignup .signUp .contentSingleOne{
+        padding:20vh 1vw;  
+    }
+
+    .desktopSignup .signUp .contentSingleOne .head{
+        font-size:4.5vw;
+    }
+
+    .desktopSignup .signUp .contentSingleOne .subhead{
+        font-size:3.5vw;
+    }
+
+    .desktopSignup .form .formSignup{
+        padding:5vh;
+    }
+
+    .desktopSignup .form .tab{
+        margin-bottom:1.5vh;
+    }
+
+    .desktopSignup .form .input{
+        padding:1vh;
+        font-size:3vw;
+    }
+
+    .desktopSignup .form label{
+        font-size:3vw;
+    }
+
+    .desktopSignup .footerThree{
+        padding:2vh 0;
+    }
+
+    
+}
+

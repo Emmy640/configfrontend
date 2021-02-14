@@ -1,0 +1,40 @@
+.Mobile{
+    margin-top: -50px;
+}
+
+.Mobile .contentSingleOne{
+    padding:1vh 5vw;
+    height:60vh;
+    margin-bottom: 20px;
+}
+
+.Mobile .contentSingleOne .text{
+    font-size: 3vw;
+    color:#4F6585;
+    text-align:center;
+    padding:3vh 10vw;
+    margin-top: 315px;
+}
+
+.Mobile .contentSingleOne .text .head{
+    color:#21409A;
+    font-size:4vw;
+    font-weight:bold;
+    text-align: center;
+
+}
+
+.Mobile .contentSingleOne .text .subhead{
+    font-size: 3.5vw;
+    color:#000;
+    text-align:center;
+    font-weight:bold;
+}
+
+
+
+@media only screen and (min-width: 768px){
+    .Mobile{
+        display: none;
+    }
+} 

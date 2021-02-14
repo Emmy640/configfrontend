@@ -1,0 +1,130 @@
+.DesktopFooter .footer .footerOne{
+    padding:20vh 20vw;
+    background:#2E4CA0;
+    font-size:2vw;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    margin:0;
+}
+
+.DesktopFooter .footer .footerOne .text{
+    color:#fff;
+    font-size:2vw;
+    font-weight:bold;
+}
+
+.DesktopFooter .footer .footerOne .button{
+    padding-left:5vw;
+}
+
+.DesktopFooter .footer .footerOne .button button{
+    background:#fff;
+    color:#2E4CA0;
+    border-radius:10px;
+    padding:1vh 2vw;
+    font-size:2vw;
+    font-weight:bold;
+    border:none;
+    outline:none;
+}
+
+
+
+.DesktopFooter .footer .footerTwo {
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1.5fr 1fr!important;
+    padding:10vh 10vw;
+}
+
+.DesktopFooter .footer .footerTwo .list{
+    font-size:1vw;
+    padding-right:1vw;
+}
+
+.DesktopFooter .footer .footerTwo .list .head{
+    font-size:1.1vw;
+    font-weight:bold;
+    color:#000;
+    margin-bottom:2vh;
+}
+
+.DesktopFooter .footer .footerTwo .list .subhead{
+    margin-bottom:2vh;
+}
+
+.DesktopFooter .footer .footerTwo .list .content span{
+    color:#2E4CA0;
+    display:block;
+    margin-bottom:2vh;
+}
+
+.DesktopFooter .footer .footerTwo .list .social img{
+    margin-right:1vw;
+}
+
+.DesktopFooter .footer .footerTwo .logo img{
+    width:7.5vw;
+}
+
+
+.DesktopFooter .footer .footerThree{
+    background:#1C242F;
+    color:#fff;
+    padding:2vh 0;
+    text-align:center;
+}
+
+
+@media only screen and (max-width: 767px){
+    .DesktopFooter{
+        display: none;
+    }
+} 
+
+@media only screen and (min-device-width: 768px)
+    and (max-device-width: 1024px) 
+    and (orientation: portrait){
+        .DesktopFooter .footer .footerOne{
+            padding:15vh 20vw;
+            font-size:5vw;
+        }
+
+        .DesktopFooter .footer .footerOne .text{
+            font-size:3vw;
+        }
+
+        .DesktopFooter .footer .footerOne .button{
+            padding-left:8vw;
+        }
+
+        .DesktopFooter .footer .footerOne .button button{
+            padding:2vh 4vw;
+            font-size:2.5vw;
+        }
+
+
+
+        .DesktopFooter .footer .footerTwo{
+            padding:10vh 2vw;
+        }
+
+        .DesktopFooter .footer .footerTwo .list{
+            font-size:2vw;
+            padding-right:3vw;
+
+        }
+
+
+        .DesktopFooter .footer .footerTwo .list .head{
+            font-size:2vw;
+        }
+
+
+
+
+
+        .DesktopFooter .footer .footerThree .list .head{
+            padding:3vh 0;
+        }
+
+    }

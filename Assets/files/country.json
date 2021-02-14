@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "dailingCode": "234",
+    "countryName": "Nigeria",
+    "shortCode": "NGN"
+  },
+  {
+    "id": 2,
+    "dailingCode": "1",
+    "countryName": "United State of America",
+    "shortCode": "US"
+  }
+]

@@ -1,0 +1,29 @@
+.whoCanInvest .howitworks .contentsingleone{
+    padding:15vh 15vw;
+}
+
+.whoCanInvest .howitworks .contentsingleone .navigateback{
+    padding:10vh 7.5vw;
+}
+
+.whoCanInvest .howitworks .contentsingleone .head{
+    color:#21409A;
+    font-size:2vw;
+    font-weight:bold;
+    text-align:center;
+}
+
+.whoCanInvest .howitworks .contentsingleone  .image{
+    margin:10vh 0;
+    text-align:center;
+}
+
+.whoCanInvest .howitworks .contentsingleone  .image img{
+    width:70%;
+}
+
+.whoCanInvest .howitworks .contentsingleone  .text{
+    font-size:1.2vw;
+    color:#000;
+    text-align:center;
+}

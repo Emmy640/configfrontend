@@ -1,0 +1,1194 @@
+[
+  {
+"id": 1,
+
+      "dailingCode": "93",
+      "countryName": "Afghanistan",
+"shortCode": "AFG"
+
+      
+  },
+  {
+"id": 2,
+
+      "dailingCode": "355",
+      "countryName": "Albania",
+"shortCode": "ALB"
+
+  },
+  {
+"id": 3,
+
+      "dailingCode": "213",
+      "countryName": "Algeria",
+"shortCode": "DZA"
+
+  },
+  {
+"id": 4,
+
+      "dailingCode": "376",
+      "countryName": "Andorra",
+"shortCode": "AND"
+
+  },
+  {
+      "id": 5,
+
+      "dailingCode": "244",
+      "countryName": "Angola",
+"shortCode": "AGO"
+  },
+  {
+      "id": 6,
+
+      "dailingCode": "1268",
+      "countryName": "Antigua and Barbuda",
+"shortCode": "ATG"
+  },
+  {
+      "id": 7,
+
+      "dailingCode": "54",
+      "countryName": "Argentina",
+"shortCode": "ARG"
+  },
+  {
+      "id": 8,
+
+      "dailingCode": "374",
+      "countryName": "Armenia",
+"shortCode": "ARM"
+  },
+  {
+      "id": 9,
+
+      "dailingCode": "61",
+      "countryName": "Australia",
+"shortCode": "AUS"
+  },
+  {
+      "id": 10,
+
+      "dailingCode": "43",
+      "countryName": "Austria",
+"shortCode": "AUT"
+  },
+  {
+      "id": 11,
+
+      "dailingCode": "994",
+      "countryName": "Azerbaijan",
+"shortCode": "AZE"
+  },
+  {
+      "id": 12,
+
+      "dailingCode": "1242",
+      "countryName": "Bahamas",
+"shortCode": "BHS"
+  },
+  {
+      "id": 13,
+
+      "dailingCode": "973",
+      "countryName": "Bahrain",
+"shortCode": "BHR"
+  },
+  {
+      "id": 14,
+
+      "dailingCode": "880",
+      "countryName": "Bangladesh",
+"shortCode": "BGD"
+  },
+  {
+      "id": 15,
+
+      "dailingCode": "1246",
+      "countryName": "Barbados",
+"shortCode": "BRB"
+  },
+  {
+     "id": 16,
+
+      "dailingCode": "375",
+      "countryName": "Belarus",
+"shortCode": "BRB"
+  },
+  {
+      "id": 16,
+
+      "dailingCode": "32",
+      "countryName": "Belgium",
+"shortCode": "BEL"
+  },
+  {
+      "id": 17,
+
+      "dailingCode": "501",
+      "countryName": "Belize",
+"shortCode": "BLZ"
+  },
+  {
+      "id": 18,
+
+      "dailingCode": "229",
+      "countryName": "Benin",
+"shortCode": "BEN"
+  },
+  {
+      "id": 19,
+
+      "dailingCode": "975",
+      "countryName": "Bhutan",
+"shortCode": "BTN"
+  },
+  {
+      "id": 20,
+
+      "dailingCode": "591",
+      "countryName": "Bolivia",
+"shortCode": "BOL"
+  },
+  {
+      "id": 21,
+
+      "dailingCode": "387",
+      "countryName": "Bosnia and Herzegovina",
+"shortCode": "BIH"
+  },
+  {
+      "id": 22,
+
+      "dailingCode": "267",
+      "countryName": "Botswana",
+"shortCode": "BWA"
+  },
+  {
+      "id": 23,
+
+      "dailingCode": "55",
+      "countryName": "Brazil",
+"shortCode": "BRA"
+  },
+  {
+      "id": 24,
+
+      "dailingCode": "359",
+      "countryName": "Bulgaria",
+"shortCode": "BGR"
+  },
+  {
+      "id": 25,
+
+      "dailingCode": "226",
+      "countryName": "Burkina Faso",
+"shortCode": "BFA"
+  },
+  {
+      "id": 26,
+
+      "dailingCode": "257",
+      "countryName": "Burundi",
+"shortCode": "BDI"
+  },
+  {
+      "id": 27,
+
+      "dailingCode": "855",
+      "countryName": "Cambodia",
+"shortCode": "KHM"
+  },
+  {
+      "id": 28,
+
+      "dailingCode": "237",
+      "countryName": "Cameroon",
+"shortCode": "CMR"
+  },
+  {
+      "id": 29,
+
+      "dailingCode": "1",
+      "countryName": "Canada",
+"shortCode": "CAN"
+  },
+  {
+      "id": 30,
+
+      "dailingCode": "236",
+      "countryName": "Central African Republic",
+"shortCode": "CAF"
+  },
+  {
+      "id": 31,
+
+      "dailingCode": "235",
+      "countryName": "Chad",
+"shortCode": "TCD"
+  },
+  {
+      "id": 32,
+
+      "dailingCode": "56",
+      "countryName": "Chile",
+"shortCode": "CHL"
+  },
+  {
+      "id": 33,
+
+      "dailingCode": "86",
+      "countryName": "China",
+"shortCode": "CHN"
+  },
+  {
+      "id": 34,
+
+      "dailingCode": "57",
+      "countryName": "Colombia",
+"shortCode": "COL"
+  },
+  {
+      "id": 35,
+
+      "dailingCode": "269",
+      "countryName": "Comoros",
+"shortCode": "COM"
+  },
+  {
+      "id": 36,
+
+      "dailingCode": "242",
+      "countryName": "Congo",
+"shortCode": "COG"
+  },
+  {
+      "id": 37,
+
+      "dailingCode": "682",
+      "countryName": "Cook Islands",
+"shortCode": "COK"
+  },
+  {
+      "id": 38,
+
+      "dailingCode": "506",
+      "countryName": "Costa Rica",
+"shortCode": "CRI"
+  },
+  {
+       "id": 39,
+
+      "dailingCode": "385",
+      "countryName": "Croatia",
+"shortCode": "HRV"
+  },
+  {
+      "id": 40,
+
+      "dailingCode": "53",
+      "countryName": "Cuba",
+"shortCode": "CUB"
+  },
+  {
+      "id": 41,
+
+      "dailingCode": "357",
+      "countryName": "Cyprus",
+"shortCode": "CYP"
+  },
+  {
+      "id": 42,
+      "dailingCode": "420",
+      "countryName": "Czech Republic",
+      "shortCode": "CZE"
+  },
+  {
+      "id": 43,
+      "dailingCode": "45",
+      "countryName": "Denmark",
+      "shortCode": "DNK"
+  },
+  {
+      
+      "id": 44,
+
+      "dailingCode": "253",
+      "countryName": "Djibouti",
+      "shortCode": "DJI"
+  },
+  {
+      "id": 45,
+
+      "dailingCode": "1767",
+      "countryName": "Dominica",
+      "shortCode": "DMA"
+  },
+  {
+      "id": 46,
+
+      "dailingCode": "1849",
+      "countryName": "Dominican Republic",
+"shortCode": "DOM"
+  },
+  {
+      "id": 47,
+
+      "dailingCode": "593",
+      "countryName": "Ecuador",
+"shortCode": "ECU"
+  },
+  {
+      "id": 48,
+
+      "dailingCode": "20",
+      "countryName": "Egypt",
+"shortCode": "EGY"
+  },
+  {
+      "id": 49,
+
+      "dailingCode": "503",
+      "countryName": "El Salvador",
+"shortCode": "SLV"
+  },
+  {
+      "id": 50,
+
+      "dailingCode": "240",
+      "countryName": "Equatorial Guinea",
+"shortCode": "GNQ"
+  },
+  {
+      "id": 51,
+
+      "dailingCode": "291",
+      "countryName": "Eritrea",
+"shortCode": "ERI"
+  },
+  {
+      "id": 52,
+
+      "dailingCode": "372",
+      "countryName": "Estonia",
+"shortCode": "EST"
+  },
+  {
+      "id": 53,
+
+      "dailingCode": "251",
+      "countryName": "Ethiopia",
+"shortCode": "ETH"
+  },
+  {
+     "id": 54,
+
+      "dailingCode": "298",
+      "countryName": "Faroe Islands",
+"shortCode": "FRO"
+  },
+  {
+      "id": 55,
+
+      "dailingCode": "358",
+      "countryName": "Finland",
+"shortCode": "FIN"
+  },
+  {
+      "id": 56,
+
+      "dailingCode": "33",
+      "countryName": "France",
+"shortCode": "FRA"
+  },
+  {
+      "id": 57,
+
+      "dailingCode": "241",
+      "countryName": "Gabon",
+"shortCode": "GAB"
+  },
+  {
+      "id": 58,
+
+      "dailingCode": "220",
+      "countryName": "Gambia",
+"shortCode": "GMB"
+  },
+  {
+      "id": 59,
+
+      "dailingCode": "995",
+      "countryName": "Georgia",
+"shortCode": "GEO"
+  },
+  {
+      "id": 60,
+
+      "dailingCode": "49",
+      "countryName": "Germany",
+"shortCode": "DEU"
+  },
+  {
+      "id": 61,
+
+      "dailingCode": "233",
+      "countryName": "Ghana",
+"shortCode": "GHA"
+  },
+  {
+      "id": 62,
+
+      "dailingCode": "30",
+      "countryName": "Greece",
+"shortCode": "GRC"
+  },
+  {
+       "id": 63,
+
+      "dailingCode": "1473",
+      "countryName": "Grenada",
+"shortCode": "GRD"
+  },
+  {
+     "id": 64,
+
+      "dailingCode": "502",
+      "countryName": "Guatemala",
+"shortCode": "GTM"
+  },
+  {
+      "id": 65,
+
+      "dailingCode": "224",
+      "countryName": "Guinea",
+"shortCode": "GIN"
+  },
+  {
+      "id": 66,
+
+      "dailingCode": "245",
+      "countryName": "Guinea-Bissau",
+"shortCode": "GNB"
+  },
+  {
+      "id": 67,
+
+      "dailingCode": "592",
+      "countryName": "Guyana",
+"shortCode": "GUY"
+  },
+  {
+      "id": 68,
+
+      "dailingCode": "509",
+      "countryName": "Haiti",
+"shortCode": "HTI"
+  },
+  {
+      "id": 69,
+
+      "dailingCode": "504",
+      "countryName": "Honduras",
+"shortCode": "HND"
+  },
+  {
+      "id": 70,
+
+      "dailingCode": "852",
+      "countryName": "Hong Kong",
+"shortCode": "HNK"
+  },
+  {
+      "id": 71,
+
+      "dailingCode": "36",
+      "countryName": "Hungary",
+"shortCode": "HUN"
+  },
+  {
+      "id": 72,
+
+      "dailingCode": "354",
+      "countryName": "Iceland",
+"shortCode": "ISL"
+  },
+  {
+      "id": 73,
+
+      "dailingCode": "91",
+      "countryName": "India",
+"shortCode": "IND"
+  },
+  {
+      "id": 74,
+
+      "dailingCode": "62",
+      "countryName": "Indonesia",
+"shortCode": "IDN"
+  },
+  {
+      "id": 75,
+
+      "dailingCode": "98",
+      "countryName": "Iran",
+"shortCode": "IRN"
+  },
+  {
+      "id": 76,
+
+      "dailingCode": "964",
+      "countryName": "Iraq",
+"shortCode": "IRQ"
+  },
+  {
+      "id": 77,
+
+      "dailingCode": "353",
+      "countryName": "Ireland",
+"shortCode": "IRL"
+  },
+  {
+      "id": 78,
+
+      "dailingCode": "972",
+      "countryName": "Israel",
+"shortCode": "ISR"
+  },
+  {
+      "id": 79,
+
+      "dailingCode": "39",
+      "countryName": "Italy",
+"shortCode": "ITA"
+  },
+  {
+      "id": 80,
+
+      "dailingCode": "225",
+      "countryName": "Ivory Coast",
+"shortCode": "IVC"
+  },
+  {
+      "id": 81,
+
+      "dailingCode": "1876",
+      "countryName": "Jamaica",
+"shortCode": "JAM"
+  },
+  {
+      "id": 82,
+
+      "dailingCode": "81",
+      "countryName": "Japan",
+"shortCode": "JPN"
+  },
+  {
+      "id": 83,
+
+      "dailingCode": "962",
+      "countryName": "Jordan",
+"shortCode": "JOR"
+  },
+  {
+      "id": 84,
+
+      "dailingCode": "7",
+      "countryName": "JKazakhstan",
+"shortCode": "KAZ"
+  },
+  {
+      "id": 85,
+
+      "dailingCode": "254",
+      "countryName": "Kenya",
+"shortCode": "KEN"
+  },
+  {
+      "id": 86,
+
+      "dailingCode": "686",
+      "countryName": "Kiribati",
+"shortCode": "KIR"
+  },
+  {
+      "id": 87,
+
+      "dailingCode": "965",
+      "countryName": "Kuwait",
+"shortCode": "KWT"
+  },
+  {
+      "id": 88,
+
+      "dailingCode": "996",
+      "countryName": "Kyrgyzstan",
+"shortCode": "KAZ"
+  },
+  {
+      "id": 90,
+
+      "dailingCode": "856",
+      "countryName": "Laos",
+"shortCode": "LAO"
+  },
+  {
+"id": 91,
+      "dailingCode": "371",
+      "countryName": "Latvia",
+"shortCode": "LVA"
+  },
+  {
+"id": 92,
+      "dailingCode": "961",
+      "countryName": "Lebanon",
+"shortCode": "LBN"
+  },
+  {
+"id": 93,
+      "dailingCode": "266",
+      "countryName": "Lesotho",
+"shortCode": "LSO"
+  },
+  {
+"id": 94,
+      "dailingCode": "231",
+      "countryName": "Liberia",
+"shortCode": "LBR"
+  },
+  {
+      "id": 95,
+      "dailingCode": "370",
+      "countryName": "Lithuania",
+"shortCode": "LTU"
+  },
+  {
+       "id": 96,
+      "dailingCode": "352",
+      "countryName": "Luxembourg",
+"shortCode": "LUX"
+  },
+  {
+      "id": 97,
+      "dailingCode": "261",
+      "countryName": "Madagascar",
+"shortCode": "MDG"
+  },
+  {
+      "id": 98,
+      "dailingCode": "265",
+      "countryName": "Malawi",
+"shortCode": "MWI"
+  },
+  {
+      "id": 99,
+      "dailingCode": "60",
+      "countryName": "Malaysia",
+"shortCode": "MYS"
+  },
+  {
+      "id": 100,
+      "dailingCode": "960",
+      "countryName": "Maldives",
+"shortCode": "MDV"
+  },
+  {
+      "id": 101,
+      "dailingCode": "223",
+      "countryName": "Mali",
+"shortCode": "MLI"
+  },
+  {
+      "id": 102,
+      "dailingCode": "356",
+      "countryName": "Malta",
+"shortCode": "MLT"
+  },
+  {
+       "id": 103,
+      "dailingCode": "692",
+      "countryName": "Marshall Islands",
+"shortCode": "MHL"
+  },
+  {
+      "id": 104,
+      "dailingCode": "222",
+      "countryName": "Mauritania",
+"shortCode": "MRT"
+  },
+  {
+      "id": 105,
+      "dailingCode": "222",
+      "countryName": "Mauritania",
+"shortCode": "MRT"
+  },
+  {
+       "id": 106,
+      "dailingCode": "52",
+      "countryName": "Mexico",
+"shortCode": "MEX"
+  },
+  {
+      "id": 107,
+      "dailingCode": "691",
+      "countryName": "Micronesia, Federated States of",
+      "shortCode": "FSM"
+  },
+  {
+      "id": 108,
+      "dailingCode": "377",
+      "countryName": "Monaco",
+"shortCode": "MCO"
+  },
+  {
+      "id": 109,
+      "dailingCode": "976",
+      "countryName": "Mongolia",
+"shortCode": "MNG"
+  },
+  {
+      "id": 110,
+      "dailingCode": "212",
+      "countryName": "Morocco",
+"shortCode": "MAR"
+  },
+  {
+      "id": 111,
+      "dailingCode": "258",
+      "countryName": "Mozambique",
+"shortCode": "MOZ"
+  },
+  {
+      "id": 112,
+      "dailingCode": "95",
+      "countryName": "Myanmar",
+"shortCode": "MMR"
+  },
+  {
+      "id": 113,
+      "dailingCode": "264",
+      "countryName": "Namibia",
+"shortCode": "NAM"
+  },
+  {
+      "id": 114,
+      "dailingCode": "674",
+      "countryName": "Nauru",
+"shortCode": "NRU"
+  },
+  {
+      "id": 115,
+      "dailingCode": "977",
+      "countryName": "Nepal",
+"shortCode": "NPL"
+  },
+  {
+      "id": 116,
+      "dailingCode": "31",
+      "countryName": "Netherlands",
+"shortCode": "NLD"
+  },
+  {
+      "id": 117,
+      "dailingCode": "64",
+      "countryName": "New Zealand",
+"shortCode": "NZL"
+  },
+  {
+      "id": 118,
+      "dailingCode": "505",
+      "countryName": "Nicaragua",
+"shortCode": "NIC"
+  },
+  {
+      "id": 119,
+      "dailingCode": "227",
+      "countryName": "Niger",
+"shortCode": "NER"
+  },
+  {
+      "id": 120,
+      "dailingCode": "234",
+      "countryName": "Nigeria",
+"shortCode": "NIG"
+  },
+  {
+      "id": 121,
+      "dailingCode": "683",
+      "countryName": "Niue",
+"shortCode": "NIU"
+  },
+  {
+      "id": 122,
+      "dailingCode": "47",
+      "countryName": "Norway",
+"shortCode": "NOR"
+  },
+  {
+      "id": 123,
+      "dailingCode": "968",
+      "countryName": "Oman",
+"shortCode": "OMN"
+  },
+  {
+      "id": 124,
+      "dailingCode": "92",
+      "countryName": "Pakistan",
+"shortCode": "PAK"
+  },
+  {
+       "id": 125,
+      "dailingCode": "680",
+      "countryName": "Palau",
+"shortCode": "PLW"
+  },
+  {
+       "id": 126,
+      "dailingCode": "507",
+      "countryName": "Panama",
+"shortCode": "PAN"
+  },
+  {
+      "id": 127,
+      "dailingCode": "675",
+      "countryName": "Papua New Guinea",
+"shortCode": "PNG"
+  },
+  {
+      "id": 128,
+      "dailingCode": "595",
+      "countryName": "Paraguay",
+"shortCode": "PNG"
+  },
+  {
+      "id": 129,
+      "dailingCode": "51",
+      "countryName": "Peru",
+"shortCode": "PER"
+  },
+  {
+      "id": 130,
+      "dailingCode": "63",
+      "countryName": "Philippines",
+"shortCode": "PHR"
+  },
+  {
+      "id": 131,
+      "dailingCode": "48",
+      "countryName": "Poland",
+     "shortCode": "POL"
+  },
+   {
+      "id": 132,
+      "dailingCode": "351",
+      "countryName": "Portugal",
+      "shortCode": "PRT"
+  },
+  {
+     "id": 133,
+      "dailingCode": "974",
+      "countryName": "Qatar",
+"shortCode": "QAT"
+  },
+  {
+      "id": 134,
+      "dailingCode": "40",
+      "countryName": "Romania",
+"shortCode": "ROU"
+  },
+  {
+      "id": 135,
+      "dailingCode": "7",
+      "countryName": "Russian Federation",
+"shortCode": "RUS"
+  },
+  {
+      "id": 136,
+      "dailingCode": "250",
+      "countryName": "Rwanda",
+"shortCode": "RWA"
+  },
+  {
+      "id": 137,
+      "dailingCode": "1869",
+      "countryName": "Saint Kitts and Nevis",
+"shortCode": "KNA"
+  },
+  {
+      "id": 138,
+      "dailingCode": "1758",
+      "countryName": "Saint Lucia",
+"shortCode": "LCA"
+  },
+  {
+      "id": 139,
+      "dailingCode": "1784",
+      "countryName": "aint Vincent and the Grenadines",
+     "shortCode": "VCT"
+  },
+  {
+      "id": 140,
+      "dailingCode": "685",
+      "countryName": "Samoa",
+"shortCode": "WSM"
+  },
+  {
+       "id": 141,
+      "dailingCode": "378",
+      "countryName": "San Marino",
+"shortCode": "SMR"
+  },
+  {
+      "id": 142,
+      "dailingCode": "239",
+      "countryName": "Sao Tome and Principe",
+"shortCode": "STP"
+  },
+  {
+      "id": 143,
+      "dailingCode": "966",
+      "countryName": "Saudi Arabia",
+"shortCode": "SAU"
+  },
+  {
+       "id": 144,
+      "dailingCode": "221",
+      "countryName": "Senegal",
+"shortCode": "SEN"
+  },
+  {
+      "id": 145,
+      "dailingCode": "248",
+      "countryName": "Seychelles",
+"shortCode": "SYC"
+  },
+  {
+       "id": 146,
+      "dailingCode": "232",
+      "countryName": "Sierra Leone",
+"shortCode": "SLE"
+  },
+  {
+      "id": 147,
+      "dailingCode": "65",
+      "countryName": "Singapore",
+"shortCode": "SGP"
+  },
+  {
+      "id": 148,
+      "dailingCode": "421",
+      "countryName": "Slovakia",
+"shortCode": "SVK"
+  },
+  {
+      "id": 149,
+      "dailingCode": "386",
+      "countryName": "Slovenia",
+"shortCode": "SVN"
+  },
+  {
+      "id": 150,
+      "dailingCode": "677",
+      "countryName": "Solomon Islands",
+"shortCode": "SLB"
+  },
+  {
+      "id": 151,
+      "dailingCode": "252",
+      "countryName": "Somalia",
+"shortCode": "SOM"
+  },
+  {
+       "id": 152,
+      "dailingCode": "27",
+      "countryName": "South Africa",
+"shortCode": "ZAF"
+  },
+  {
+       "id": 153,
+      "dailingCode": "211",
+      "countryName": "South Sudan",
+"shortCode": "SSD"
+  },
+  {
+      "id": 154,
+      "dailingCode": "34",
+      "countryName": "Spain",
+"shortCode": "ESP"
+  },
+  {
+      "id": 155,
+      "dailingCode": "249",
+      "countryName": "Sudan",
+"shortCode": "SDN"
+  },
+  {
+      "id": 156,
+      "dailingCode": "597",
+      "countryName": "Suriname",
+"shortCode": "SUR"
+  },
+  {
+      "id": 157,
+      "dailingCode": "46",
+      "countryName": "Sweden",
+"shortCode": "SWE"
+  },
+  {
+      "id": 158,
+      "dailingCode": "41",
+      "countryName": "Switzerland",
+"shortCode": "CHE"
+  },
+  {
+      "id": 159,
+      "dailingCode": "963",
+      "countryName": "Syria",
+"shortCode": "SYR"
+  },
+  {
+      "id": 160,
+      "dailingCode": "992",
+      "countryName": "Tajikistan",
+"shortCode": "TJK"
+  },
+  {
+      "id": 161,
+      "dailingCode": "66",
+      "countryName": "Thailand",
+"shortCode": "THA"
+  },
+  {
+      "id": 162,
+      "dailingCode": "243",
+      "countryName": "The Democratic Republic of Congo",
+      "shortCode": "DRC"
+  },
+  {
+      "id": 163,
+      "dailingCode": "228",
+      "countryName": "Togo",
+"shortCode": "TGO"
+  },
+  {
+      "id": 164,
+      "dailingCode": "690",
+      "countryName": "Tokelau",
+"shortCode": "TKL"
+  },
+  {
+      "id": 165,
+      "dailingCode": "676",
+      "countryName": "Tonga",
+"shortCode": "TON"
+  },
+  {
+      "id": 166,
+      "dailingCode": "1868",
+      "countryName": "Trinidad and Tobago",
+"shortCode": "TTO"
+  },
+  {
+      "id": 167,
+      "dailingCode": "216",
+      "countryName": "Tunisia",
+"shortCode": "TUN"
+  },
+  {
+       "id": 168,
+      "dailingCode": "90",
+      "countryName": "Turkey",
+"shortCode": "TUR"
+  },
+  {
+      "id": 169,
+      "dailingCode": "993",
+      "countryName": "Turkmenistan",
+"shortCode": "TKM"
+  },
+  {
+      "id": 170,
+      "dailingCode": "688",
+      "countryName": "Tuvalu",
+"shortCode": "TUV"
+  },
+  {
+       "id": 171,
+      "dailingCode": "256",
+      "countryName": "Uganda",
+"shortCode": "UGA"
+  },
+  {
+      "id": 172,
+      "dailingCode": "380",
+      "countryName": "Ukraine",
+"shortCode": "UKR"
+  },
+  {
+      "id": 173,
+      "dailingCode": "971",
+      "countryName": "United Arab Emirates",
+"shortCode": "ARE"
+  },
+  {
+      "id": 174,
+      "dailingCode": "44",
+      "countryName": "United Kingdom",
+"shortCode": "GBR"
+  },
+  {
+      "id": 175,
+      "dailingCode": "1",
+      "countryName": "United States",
+"shortCode": "USA"
+  },
+  {
+      "id": 176,
+      "dailingCode": "598",
+      "countryName": "Uruguay",
+"shortCode": "URY"
+  },
+  {
+      "id": 177,
+      "dailingCode": "998",
+      "countryName": "Uzbekistan",
+"shortCode": "UZB"
+  },
+  {
+      "id": 178,
+      "dailingCode": "678",
+      "countryName": "Vanuatu",
+"shortCode": "VUT"
+  },
+  {
+      "id": 179,
+      "dailingCode": "58",
+      "countryName": "Venezuela",
+"shortCode": "VEN"
+  },
+  {
+      "id": 180,
+      "dailingCode": "84",
+      "countryName": "Viet nam",
+"shortCode": "VNM"
+  },
+  {
+      "id": 181,
+      "dailingCode": "967",
+      "countryName": "Yemen",
+"shortCode": "YEM"
+  },
+  {
+      "id": 182,
+      "dailingCode": "260",
+      "countryName": "Zambia",
+"shortCode": "ZMB"
+  },
+  {
+       "id": 183,
+      "dailingCode": "263",
+      "countryName": "Zimbabwe",
+"shortCode": "ZWE"
+  }
+]

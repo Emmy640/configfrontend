@@ -1,0 +1,84 @@
+.desktop .autoInvest{
+    padding:25vh 15vw;
+    text-align:left;
+    font-size:1.2vw;
+}
+
+.desktop .autoInvest .return{
+    margin-bottom:10vh;
+}
+.desktop .autoInvest .return img{
+    width:1.5vw;
+    margin-right:1vw;
+}
+
+
+.desktop .autoInvest .container{
+    display:grid;
+    grid-template-columns:1fr 2fr;
+}
+.desktop .autoInvest .sideContainer{
+    border-right:1px #000 solid;
+    padding-right:2vw;
+}
+.desktop .autoInvest .mainContainer{
+    padding-left:2vw;
+}
+.desktop .autoInvest .autoInvestNavigation{
+    margin-bottom:4vh;
+}
+.desktop .autoInvest .autoInvestNavigation span{
+    color:grey;
+}
+.desktop .autoInvest .mainContainer .head{
+    margin-bottom:4vh;
+    font-size:2vw;
+    color:#3B57A6;
+}
+.desktop .autoInvest .mainContainer .items{
+    margin-bottom:4vh;
+}
+.desktop .autoInvest .mainContainer .items .title{
+    font-weight:bold;
+}
+.desktop .autoInvest .mainContainer .feedback{
+    font-weight:bold;
+    margin:7vh 0;
+    border-top:1px #000 solid;
+    border-bottom:1px #000 solid;
+    padding:4vh 0;
+}
+.desktop .autoInvest .mainContainer .feedback .button{
+    margin-top:3vh;
+}
+.desktop .autoInvest .mainContainer .feedback button{
+    margin-right:1vw;
+    padding:1vh 2vw;
+    font-size:1.2vw;
+    font-weight:bold;
+    background:#fff;
+    outline:none;
+    border:1px #000 solid;
+    border-radius:5px;
+}
+
+
+
+
+
+
+
+
+.desktop .autoInvest .sideContainer .head{
+    font-weight:bolder;
+    color:#3B57A6;
+    font-size:1.5vw;
+    margin-bottom:3vh;
+}
+.desktop .autoInvest .sideContainer ul{
+    list-style-type:none;
+    margin-bottom:10vh;
+}
+.desktop .autoInvest .sideContainer ul li{
+    margin-bottom:2vh;
+}

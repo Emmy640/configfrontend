@@ -1,0 +1,38 @@
+.Mobile{
+    margin-top: 150px ;
+}
+
+.Mobile .contentSingleOne{
+    height:40vh;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.Mobile .contentSingleOne img{
+   
+    margin-top: -100px;
+    width: 40%;
+}
+
+.Mobile .contentSingleOne .text .head{
+    margin-bottom:3vh;
+    color: #21409A;
+    margin: 1px 25px;
+    font-weight: bold;
+    font-size:5vw;
+}
+
+.Mobile .contentSingleOne .text .subhead{
+    font-size: 3.9vw;
+    color: #000;
+    margin: 0 20px;
+    padding: 0 24px;
+}
+
+
+
+@media only screen and (min-width: 768px){
+    .Mobile{
+        display: none;
+    }
+}

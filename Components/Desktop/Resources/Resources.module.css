@@ -1,0 +1,97 @@
+.desktopResources .contentsingleone{
+    padding:15vh 15vw;
+}
+
+.desktopResources .contentsingleone .head{
+    color:#21409A;
+    font-size:2vw;
+    font-weight:bold;
+    text-align:center;
+}
+
+.desktopResources .contentsingleone .head .resourceshead{
+    text-align:left!important;
+    padding-left:1.5vw;
+}
+
+.desktopResources .resources{
+    display:grid;
+    grid-template-columns:3fr 1fr;
+    padding:0 15vw;
+}
+
+.desktopResources .resources .contentsingleone{
+    padding:0!important;
+}
+
+.desktopResources .resources .contentsingleone .title{
+    font-weight:bold;
+    font-size:.9vw;
+}
+
+.desktopResources .resources .contentsingleone ul{
+    padding:3vh 0 10vh 0;
+    font-size:.9vw;
+}
+
+.desktopResources .resources .contentsingleone .contactcard{
+    background:grey;
+    padding:5vh 3vw;
+    margin-top:2vh;
+    text-align:center;
+    font-size:.9vw;
+}
+
+.desktopResources .resources .contentsingleone .contactcard .image{
+    width:7.5vw;
+    height:7.5vw;
+    background:#fff;
+    border-radius:7.5vw;
+    margin:0 auto 3vh auto;
+}
+
+.desktopResources .resourcesvideo{
+    margin-top:10vh;
+    padding:5vh 5vw;
+    background:rgba(196, 196, 196, 0.1);
+}
+
+.desktopResources .resourcesvideo .resourcesvideohead{
+    padding-left:10vw;
+}
+
+.desktopResources .resourcesvideo .resourcesvideohead img{
+    margin-left:1vw;
+    width:.5vw;
+}
+
+
+
+
+
+
+.desktopResources .resourcesvideo .contenttripleone .resourcesvideocontainer .tabvideos .image{
+    text-align:center;
+}
+
+
+
+.resourcesvideo .contentTripleOne{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    padding:10vh 13.5vw;
+    margin:auto!important;
+}
+
+.resourcesvideo .contentTripleOne .tab{
+    width:85%;
+    border-radius:10px;
+    margin:auto;
+    padding:5vh 3vw;
+    text-align:left;
+    position:relative;
+    margin-bottom:10vh;
+}
+
+
+

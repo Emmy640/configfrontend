@@ -1,0 +1,136 @@
+.InvestSteps .contentsingleone{
+    padding:15vh 15vw;
+}
+
+.InvestSteps .contentsingleone .head{
+    color:#21409A;
+    font-size:2vw;
+    font-weight:bold;
+    text-align:center;
+}
+
+.InvestSteps .contentsingleone .investin5easystepsdoubletab{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    text-align:center;
+    margin-top:10vh;
+}
+
+.InvestSteps .contentsingleone .investin5easystepsdoubletab .tabcontainer{
+    padding:3vh 2.5vw;
+}
+
+.InvestSteps .contentsingleone .investin5easystepsdoubletab .tabcontainer .number{
+    font-size:2vw;
+    font-weight:bold;
+    color:#000;
+    margin-bottom:2vh;
+}
+
+.InvestSteps .contentsingleone .investin5easystepsdoubletab .tab{
+    background: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 24px;
+    height:60vh;
+    padding:2.5vh 2vw;
+    color:#000;
+}
+
+.InvestSteps .contentsingleone .investin5easystepsdoubletab .tab .title{
+    font-weight:bold;
+    font-size:1.25vw;
+    padding:2vh 0;
+    color:#21409A;
+}
+
+.InvestSteps .contentsingleone .investin5easystepssingletab{
+    text-align:center;
+}
+
+.InvestSteps .contentsingleone .investin5easystepssingletab .tabcontainer{
+    padding:3vh 2.5vw;
+}
+
+.InvestSteps .contentsingleone .investin5easystepssingletab .tabcontainer .number{
+    font-size:2vw;
+    font-weight:bold;
+    color:#000;
+    margin-bottom:2vh;
+}
+
+.InvestSteps .contentsingleone .investin5easystepssingletab .tab{
+    background: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 24px;
+    height:60vh;
+    margin:auto;
+    width:30vw;
+    padding:10vh 2vw;
+    color:#000;
+}
+
+.InvestSteps .contentsingleone .investin5easystepssingletab .tab .title{
+    font-weight:bold;
+    font-size:1.25vw;
+    padding:2vh 0;
+    color:#21409A;
+}
+
+@media only screen and (max-width: 767px){
+    .InvestSteps{
+        display: none;
+    }
+}
+
+@media only screen and (min-device-width: 768px)
+    and (max-device-width: 1024px) 
+    and (orientation: portrait){
+    .InvestSteps .contentsingleone{
+        padding:2vh 7vw;
+    }
+
+    .InvestSteps .contentsingleone .head{
+        font-size:2.5vw;
+    }
+    
+
+
+    .InvestSteps .contentsingleone .investin5easystepsdoubletab .tab{
+        height:43vh;
+        padding:2.2vh .1vw;
+    }
+
+    .InvestSteps .contentsingleone .investin5easystepsdoubletab .tab .title{
+        
+        font-size:2vw;
+        padding:1.5vh 0;
+    }
+
+    .InvestSteps .contentsingleone .investin5easystepsdoubletab .tabcontainer{
+        padding:4vh 2.5vw;
+        
+    }
+
+    .InvestSteps .contentsingleone .investin5easystepssingletab .tabcontainer{
+        padding:3vh 2.5vw;
+    }
+
+    .InvestSteps .contentsingleone .investin5easystepssingletab .tab{
+        height:39vh;
+        padding:2.5vh 2vw;
+    }
+
+    .InvestSteps .contentsingleone .investin5easystepssingletab .tab .title{
+        font-size:2vw;
+        padding:1.5vh 0;
+    }
+
+    .InvestSteps .contentsingleone .investin5easystepssingletab{
+        padding:.1vh 8vw;
+    }
+    
+}

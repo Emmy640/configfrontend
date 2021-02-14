@@ -1,0 +1,176 @@
+.desktopSignin{
+    padding:9vh 0;
+}
+
+.desktopSignin .signIn .contentDoubleOne{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    padding:15vh 15vw;
+}
+
+.desktopSignin .signIn .contentDoubleOne .text{
+    padding-right:5vw;
+    text-align:left;
+
+}
+
+.desktopSignin .signIn .contentDoubleOne .text .head{
+    font-size:3vw;
+    color:#162E73;
+    font-weight:bold;
+}
+
+.desktopSignin .signIn .contentDoubleOne .text .form .formSignin{
+    padding:5vh 0;
+}
+
+.desktopSignin .signIn .contentDoubleOne .text .form .formSignin .tab{
+    margin-bottom:5vh;
+
+}
+
+.desktopSignin .signIn .contentDoubleOne .text .form .formSignin .tab .forgotPassword{
+    padding-top:1.5vh;
+}
+
+.desktopSignin .signIn .contentDoubleOne .text .form .formSignin .tab .button{
+    padding:2vh 1vw;
+    border:none;
+    outline:none;
+    margin-right:1vw;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.desktopSignin .signIn .contentDoubleOne .text .form .formSignin .tab .button .login{
+    background:#ED1C24;
+    color:#fff;
+    border:2px solid #ED1C24;
+    border-radius:7px;
+}
+
+.desktopSignin .signIn .contentDoubleOne .text .form  label{
+    font-size:1vw;
+    color:#000;
+}
+
+.desktopSignin .signIn .contentDoubleOne .text .form .input{
+    width:95%;
+    border-radius:10px;
+    padding:2vh 1vw;
+    font-size:1vw;
+    border:1px #9FA5CE solid;
+    outline:none;
+    margin-top:2vh;
+}
+
+.desktopSignin .signIn .contentDoubleOne .text .form .input input{
+    width:100%;
+    border:none;
+    outline:none;
+}
+
+.desktopSignin .signIn .contentDoubleOne .signinText{
+    padding-top:15vh;
+    text-align:right;
+}
+
+.desktopSignin .signIn .contentDoubleOne .signinText .head{
+    font-size:2.2vw;
+    font-weight:bolder;
+    color:#162E73;
+    margin-bottom:3vh;
+}
+
+.desktopSignin .signIn .contentDoubleOne .signinText .subhead{
+    font-size:1.2vw;
+}
+
+.desktopSignin .signIn .contentSingleOne{
+    padding:10vh 15vw;
+
+}
+
+.desktopSignin .signIn .contentSingleOne .head{
+    color:#21409A;
+    font-size:2vw;
+    font-weight:bold;
+    text-align:center;
+}
+
+.desktopSignin .signIn .contentSingleOne .subhead{
+    font-size:1.25vw;
+    color:#636060;
+    text-align:center;
+}
+
+
+@media only screen and (max-width: 767px){
+    .desktopSignin{
+        padding:5vh 0;
+        margin: 10px;
+    }
+
+    .desktopSignin .signIn .contentDoubleOne{
+        padding:15vh 5vw;
+        margin-bottom: -15vh;
+    }
+
+    .desktopSignin .signIn .contentDoubleOne .text{
+        padding-right:.1vw;
+        text-align:left;
+    
+    }
+
+
+
+
+    .desktopSignin .signIn .contentDoubleOne .signinText{
+        padding-top:1vh;
+        text-align: center;
+    }
+
+    .desktopSignin .signIn .contentDoubleOne .signinText .head{
+        font-size:2.7vw;
+        margin-bottom:1vh;
+        
+    }
+
+    .desktopSignin .signIn .contentDoubleOne .signinText .subhead{
+        font-size:2.6vw;
+    }
+
+    .desktopSignin .signIn .contentDoubleOne .text .head{
+        font-size:3.5vw;
+        text-align: center;
+    }
+
+    .desktopSignin .signIn .contentDoubleOne .text .form .formSignin{
+        padding:5vh 0;
+        margin-right: -100px;
+    }
+
+    .desktopSignin .signIn .contentDoubleOne .text .form .formSignin .tab{
+        margin-bottom:2vh;
+    
+    }
+
+    .desktopSignin .signIn .contentDoubleOne .text .form  label{
+        font-size:3.5vw;
+    }
+
+    .desktopSignin .signIn .contentDoubleOne .text .form .input{
+        padding:1.5vh 1vw;
+        font-size:3.5vw;
+        margin-top:.1vh;
+    }
+
+    .desktopSignin .signIn .contentSingleOne .head{
+        font-size:4vw;
+    }
+
+    .desktopSignin .signIn .contentSingleOne .subhead{
+        font-size:3vw;
+    }
+    
+}
